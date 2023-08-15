@@ -23,8 +23,6 @@ The Second-Hand Marketplace is a web application designed to facilitate the buyi
 - Footer with links to guides and policies.
 - Styled with Bootstrap for clean and responsive design.
 
-## GettingNavigate to the project directory:
-
 ## Getting Started
 
 1. Clone the repository:
